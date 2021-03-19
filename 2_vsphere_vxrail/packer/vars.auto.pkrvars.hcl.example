@@ -1,0 +1,7 @@
+vsphere_server = "rack9-4b-vc-01.vcf.vxrail.local"
+vsphere_user = "administrator@vsphere.local"
+vsphere_password = "Vx5eals!!"
+datacenter = "vxrail-datacenter"
+cluster = "vxrail-cluster"
+datastore = "vxrail-datastore"
+network_name = "server-net"
